@@ -1,0 +1,3 @@
+- /generator/ -GET 
+- text string (encoding text)
+- size int (picture size)
